@@ -1,0 +1,45 @@
+* {
+    font-family: monospace;
+    color:  #3d3a35;
+}
+
+body {
+    background-color: #eca1a6;
+}
+
+.container {
+    max-width: 700px;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+h1, h2 {
+    font-weight: bold;
+    font-size: 44px;
+    text-align: center;
+}
+
+ul {
+    list-style-type:none;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    width: 600px;
+    height: 400px;
+   margin: auto;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+li {
+    margin: auto;
+    justify-content: center;
+}

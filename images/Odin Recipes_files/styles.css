@@ -1,0 +1,32 @@
+* {
+    font-family: monospace;
+    color:  #3d3a35;
+}
+
+body {
+    background-color: #eca1a6;
+}
+
+.container {
+    max-width: 700px;
+    margin:auto;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid;
+    background-color: #d6cbd3;
+    
+}
+
+
+h1 {
+    font-weight: bold;
+    font-size: 44px;
+    text-align: center;
+}
+
+ul {
+    list-style-type:circle;
+    text-align: center;
+}
